@@ -18,24 +18,26 @@
 
 <h2 align="left" style="height:70px; width:70px;"> Events </h2>
 
-<h5 align="left">  
+    -ADAS & Autonomous Vehicle Technology Expo 202-
+    Location: Stuttgart  
+    Focus: Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicle Technologies.  
+    Note: This expo likely showcases the latest technologies and innovations in the field of autonomous vehicles and ADAS. 
+    Participating As: Attendee
+
   
-    ADAS & Autonomous Vehicle Technology Expo 2023
-    Location: Stuttgart  <br/> 
-    Focus: Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicle Technologies.  <br/>
-    Note: This expo likely showcases the latest technologies and innovations in the field of autonomous vehicles and ADAS.  <br/>
+    Electronica 2023 
+    Location: Munich 
+    Focus: Electronics and related technologies. 
+    Note: Electronica is a major trade fair for the electronics industry, covering a wide range of electronic components, systems, and applications.
+    Participating As: Attendee
+
   
-  - **Electronica 2023 / Munich**
-  
-    Location: Munich <br/>
-    Focus: Electronics and related technologies. <br/> 
-    Note: Electronica is a major trade fair for the electronics industry, covering a wide range of electronic components, systems, and applications. <br/>
-  
-  - **IAA Mobility 2023 / Munich**
-  
-    Location: Munich <br/>
-    Focus: International Motor Show (IAA) with an emphasis on mobility solutions. <br/>
-    Note: IAA Mobility typically features the latest trends and technologies in the automotive industry, including electric vehicles, sustainable mobility, and smart transportation solutions. <br/>
+    IAA Mobility 2023 
+    Location: Munich 
+    Focus: International Motor Show (IAA) with an emphasis on mobility solutions. 
+    Note: IAA Mobility typically features the latest trends and technologies in the automotive industry, including electric vehicles solutions. 
+    Participating As: Attendee
+     
 </h5>
 
 
