@@ -18,25 +18,26 @@
 
 <h2 align="left" style="height:70px; width:70px;"> Events </h2>
 
-    -ADAS & Autonomous Vehicle Technology Expo 202-
-    Location: Stuttgart  
-    Focus: Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicle Technologies.  
-    Note: This expo likely showcases the latest technologies and innovations in the field of autonomous vehicles and ADAS. 
-    Participating As: Attendee
+   - <strong>ADAS & Autonomous Vehicle Technology Expo 2023</strong> <br/> 
+  <i>Location: </i> Stuttgart,Germany <br/> 
+   <i>Focus: </i> Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicle Technologies. <br/> 
+   <i>Note: </i> This expo likely showcases the latest technologies and innovations in the field of autonomous vehicles and ADAS. <br/> 
+   <i>Participating As: </i> Attendee
+
 
   
-    Electronica 2023 
-    Location: Munich 
-    Focus: Electronics and related technologies. 
-    Note: Electronica is a major trade fair for the electronics industry, covering a wide range of electronic components, systems, and applications.
-    Participating As: Attendee
+  - <strong> Electronica 2023 </strong><br/> 
+     <i>Location: </i> Munich,Germany <br/> 
+    <i> Focus: </i> Electronics and related technologies. <br/> 
+     <i>Note: </i> Electronica is a major trade fair for the electronics industry, covering a wide range of electronic components, systems, and applications.<br/> 
+     <i>Participating As: </i> Attendee<br/> 
 
   
-    IAA Mobility 2023 
-    Location: Munich 
-    Focus: International Motor Show (IAA) with an emphasis on mobility solutions. 
-    Note: IAA Mobility typically features the latest trends and technologies in the automotive industry, including electric vehicles solutions. 
-    Participating As: Attendee
+- <strong> IAA Mobility 2023 </strong> <br/> 
+    <i> Location: </i> Munich,Germany <br/> 
+     <i>Focus: </i> International Motor Show (IAA) with an emphasis on mobility solutions. <br/> 
+     <i>Note: </i> IAA Mobility typically features the latest trends and technologies in the automotive industry, including electric vehicles solutions. <br/> 
+     <i>Participating As: </i> Attendee
      
 </h5>
 
