@@ -4,7 +4,7 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Serhat Arslan</h1>
-<h3 align="center">A passionate embedded software engineer and robotics lover </h3>
+<h3 align="center"> Enthusiastic Embedded Software Engineer with a Passion for Robotics </h3>
 
 
 
