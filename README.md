@@ -1,17 +1,24 @@
 
-<h1 align="center" width = "150">
-  <img src="https://img.freepik.com/premium-photo/cute-robot-delivers-bouquet-flowers-loved-one_124507-207126.jpg" alt="MasterHead"  width = "350" >
+<h1 align="center" width = "200">
+  <img src="https://img.freepik.com/premium-photo/cute-robot-delivers-bouquet-flowers-loved-one_124507-207126.jpg" alt="MasterHead"  width = "500" >
 </h1>
 
 <h1 align="center">Hi 👋, I'm Serhat Arslan</h1>
 <h3 align="center">A passionate embedded software engineer and robotics lover </h3>
 
+
+
+
+
 <h2 align="left" height="70" width="70"> I am interested in following topics </h2>
+<img align = "right"  alt ="coding" width ="240"  src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdla2dxam8ydmw0M21rbWE3bXY3NWV6MGhzcGlkbTQ2MXVxeHBqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"> 
+
 <h4 align="left">  - C and C++ Programming <br/> - Digital Signal Processing <br/> - FMCW Radar <br/> - Machine Learning Algorithms for Classification <br/>  - Compiler Design  <br/>
-  - Compiler Optimizations  <br/> - Real Time Operating Systems<br/>  - Robot Operating Systems </h4> 
+  - Compiler Optimizations  <br/> - Real Time Operating Systems<br/>  - Robot Operating Systems <br/> - System Modelling  </h4> 
 
-<img align = "right" alt ="coding" width ="250" src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdla2dxam8ydmw0M21rbWE3bXY3NWV6MGhzcGlkbTQ2MXVxeHBqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"> 
+<h2 align="left" height="70" width="70"> Events </h2>
 
+<h5 align="left">  - ADAS & Autonomous Vehicle Technology Expo 2023 / Stuttgart <br/> - Electronica 2023 / Munich <br/> - IAA Mobility 2023 / Munich </h4> 
 
 
 
