@@ -10,7 +10,7 @@
 
 
 
-<h2 align="left" height="70" width="70"> I am interested in following topics </h2>
+<h2 align="left" height="70" width="70"> Areas that Intrigue Me </h2>
 <img align = "right"  alt ="coding" width ="235"  src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdla2dxam8ydmw0M21rbWE3bXY3NWV6MGhzcGlkbTQ2MXVxeHBqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"> 
 
 <h4 align="left">  - C and C++ Programming <br/> - Digital Signal Processing <br/> - FMCW Radar <br/> - Machine Learning Algorithms for Classification <br/>  - Compiler Design  <br/>
