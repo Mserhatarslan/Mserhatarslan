@@ -16,9 +16,27 @@
 <h4 align="left">  - C and C++ Programming <br/> - Digital Signal Processing <br/> - FMCW Radar <br/> - Machine Learning Algorithms for Classification <br/>  - Compiler Design  <br/>
   - Compiler Optimizations  <br/> - Real Time Operating Systems<br/>  - Robot Operating Systems <br/> - System Modelling  </h4> 
 
-<h2 align="left" height="70" width="70"> Events </h2>
+<h2 align="left" style="height:70px; width:70px;"> Events </h2>
 
-<h5 align="left">  - ADAS & Autonomous Vehicle Technology Expo 2023 / Stuttgart <br/> - Electronica 2023 / Munich <br/> - IAA Mobility 2023 / Munich </h4> 
+<h5 align="left">  
+  
+    ADAS & Autonomous Vehicle Technology Expo 2023
+    Location: Stuttgart  <br/> 
+    Focus: Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicle Technologies.  <br/>
+    Note: This expo likely showcases the latest technologies and innovations in the field of autonomous vehicles and ADAS.  <br/>
+  
+  - **Electronica 2023 / Munich**
+  
+    Location: Munich <br/>
+    Focus: Electronics and related technologies. <br/> 
+    Note: Electronica is a major trade fair for the electronics industry, covering a wide range of electronic components, systems, and applications. <br/>
+  
+  - **IAA Mobility 2023 / Munich**
+  
+    Location: Munich <br/>
+    Focus: International Motor Show (IAA) with an emphasis on mobility solutions. <br/>
+    Note: IAA Mobility typically features the latest trends and technologies in the automotive industry, including electric vehicles, sustainable mobility, and smart transportation solutions. <br/>
+</h5>
 
 
 
