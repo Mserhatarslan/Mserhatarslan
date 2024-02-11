@@ -1,7 +1,12 @@
 
-<h1 align="center">
-  <img src="https://img.freepik.com/premium-photo/cute-robot-delivers-bouquet-flowers-loved-one_124507-207126.jpg" alt="MasterHead">
+<h1 align="center" width = "150">
+  <img src="https://img.freepik.com/premium-photo/cute-robot-delivers-bouquet-flowers-loved-one_124507-207126.jpg" alt="MasterHead"  width = "350" >
 </h1>
+
+<img align = "right" alt ="coding" width ="350" src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdla2dxam8ydmw0M21rbWE3bXY3NWV6MGhzcGlkbTQ2MXVxeHBqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"> 
+
+
+
 
 <h1 align="center">Hi 👋, I'm Serhat Arslan</h1>
 <h3 align="center">A passionate embedded software developer</h3>
