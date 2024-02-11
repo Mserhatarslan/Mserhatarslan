@@ -3,13 +3,19 @@
   <img src="https://img.freepik.com/premium-photo/cute-robot-delivers-bouquet-flowers-loved-one_124507-207126.jpg" alt="MasterHead"  width = "350" >
 </h1>
 
-<img align = "right" alt ="coding" width ="350" src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdla2dxam8ydmw0M21rbWE3bXY3NWV6MGhzcGlkbTQ2MXVxeHBqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"> 
-
-
-
-
 <h1 align="center">Hi 👋, I'm Serhat Arslan</h1>
-<h3 align="center">A passionate embedded software developer</h3>
+<h3 align="center">A passionate embedded software engineer and robotics lover </h3>
+
+<h2 align="left" height="70" width="70"> I am interested in following topics </h2>
+<h4 align="left">  - C and C++ Programming <br/> - Digital Signal Processing <br/> - FMCW Radar <br/> - Machine Learning Algorithms for Classification <br/>  - Compiler Design  <br/>
+  - Compiler Optimizations  <br/> - Real Time Operating Systems<br/>  - Robot Operating Systems </h4> 
+
+<img align = "right" alt ="coding" width ="250" src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdla2dxam8ydmw0M21rbWE3bXY3NWV6MGhzcGlkbTQ2MXVxeHBqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif"> 
+
+
+
+
+
 
 - 📫 How to reach me **serhat.arslan@itas-eng.com**
 
