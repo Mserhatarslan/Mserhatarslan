@@ -19,7 +19,7 @@
 <h2 align="left" style="height:70px; width:70px;"> Events </h2>
 
    - <strong>ADAS & Autonomous Vehicle Technology Expo 2023</strong> <br/> 
-  <i>Location: </i> Stuttgart,Germany <br/> 
+  <i>Location: </i> Stuttgart, Germany <br/> 
    <i>Focus: </i> Advanced Driver Assistance Systems (ADAS) and Autonomous Vehicle Technologies. <br/> 
    <i>Note: </i> This expo likely showcases the latest technologies and innovations in the field of autonomous vehicles and ADAS. <br/> 
    <i>Participating As: </i> Attendee
@@ -27,21 +27,21 @@
 
   
   - <strong> Electronica 2023 </strong><br/> 
-     <i>Location: </i> Munich,Germany <br/> 
+     <i>Location: </i> Munich, Germany <br/> 
     <i> Focus: </i> Electronics and related technologies. <br/> 
      <i>Note: </i> Electronica is a major trade fair for the electronics industry, covering a wide range of electronic components, systems, and applications.<br/> 
      <i>Participating As: </i> Attendee<br/> 
 
   
 - <strong> IAA Mobility 2023 </strong> <br/> 
-    <i> Location: </i> Munich,Germany <br/> 
+    <i> Location: </i> Munich, Germany <br/> 
      <i>Focus: </i> International Motor Show (IAA) with an emphasis on mobility solutions. <br/> 
      <i>Note: </i> IAA Mobility typically features the latest trends and technologies in the automotive industry, including electric vehicles solutions. <br/> 
      <i>Participating As: </i> Attendee
 
 
 - <strong> Embedded World 2024</strong> <br/> 
-  <i>Location: </i> Nuremberg,Germany <br/> 
+  <i>Location: </i> Nuremberg, Germany <br/> 
    <i>Focus: </i> The world's leading event in the field of embedded systems. <br/> 
    <i>Note: </i>  Embedded World typically showcases the latest trends and technologies not only in embedded systems but also in IoT (Internet of Things) and related areas. <br/> 
    <i>Participating As: </i> Attendee
