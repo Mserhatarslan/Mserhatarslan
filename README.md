@@ -38,6 +38,14 @@
      <i>Focus: </i> International Motor Show (IAA) with an emphasis on mobility solutions. <br/> 
      <i>Note: </i> IAA Mobility typically features the latest trends and technologies in the automotive industry, including electric vehicles solutions. <br/> 
      <i>Participating As: </i> Attendee
+
+
+- <strong> Embedded World 2024</strong> <br/> 
+  <i>Location: </i> Nuremberg,Germany <br/> 
+   <i>Focus: </i> The world's leading event in the field of embedded systems. <br/> 
+   <i>Note: </i>  Embedded World typically showcases the latest trends and technologies not only in embedded systems but also in IoT (Internet of Things) and related areas. <br/> 
+   <i>Participating As: </i> Attendee
+
      
 </h5>
 
