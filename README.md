@@ -46,6 +46,15 @@
    <i>Note: </i>  Embedded World typically showcases the latest trends and technologies not only in embedded systems but also in IoT (Internet of Things) and related areas. <br/> 
    <i>Participating As: </i> Attendee
 
+
+  <strong> ADAS EXPO 2024</strong> <br/> 
+  <i>Location: </i> Nuremberg, Stuttgat <br/> 
+   <i>Focus: </i>  <br/> 
+   <i>Note: </i>  Visit Us <br/>
+  
+   ![image](https://github.com/Mserhatarslan/Mserhatarslan/assets/63358327/42085a6b-f1cb-43fd-89ff-541ac0c5b97a)
+
+
      
 </h5>
 
