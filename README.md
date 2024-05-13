@@ -47,7 +47,7 @@
    <i>Participating As: </i> Attendee
 
 
-  <strong> ADAS & Autonomous Vehicle Technology Expo 2024 </strong> <br/> 
+- <strong> ADAS & Autonomous Vehicle Technology Expo 2024 </strong> <br/> 
   <i>Location: </i> Stuttgart, Germany <br/> 
    <i>Focus: </i>  <br/> 
    <i>Note: </i>  Visit Us <br/>
